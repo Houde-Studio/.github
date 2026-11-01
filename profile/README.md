@@ -10,3 +10,10 @@
 |...|...|...|
 
 ## 项目
+|Name|License|Languages|Description|
+|---|---|---|---|
+|[StudyJournal](https://github.com/Houde-Studio/StudyJournal/)|MIT|C++|StudyJournal: a lightweight native Win32 app combining a plain-text calendar journal with homework/task management.|
+|...|...|...|...|
+
+## 加入方式
+请取得与成员的沟通。
